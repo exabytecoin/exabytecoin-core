@@ -8,7 +8,7 @@ packages:
 - "mingw32"
 - "faketime"
 - "zip"
-reference_datetime: "2011-01-30 00:00:00"
+reference_datetime: "2018-03-28 00:00:00"
 remotes: []
 files:
 - "boost_1_55_0.tar.bz2"
